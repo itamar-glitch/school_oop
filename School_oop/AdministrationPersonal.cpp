@@ -1,8 +1,5 @@
-/* Assignment: 3
-Author1: Itamar Azran,
-ID: 307955450
-Author2: Yevgeniy Gluhoy,
-ID: 336423629
+/*
+Author: Itamar Azran,
 */
 #include "AdministrationPersonal.h"
 AdministrationPersonal::AdministrationPersonal(string new_office_place, string first_name, string last_name, int seniority_worker, int Seniority_manneger) :Worker(first_name, last_name, seniority_worker, Seniority_manneger){
