@@ -1,5 +1,5 @@
 /*
-Author: Itamar Azran,
+Author: Itamar Azran
 */
 #include "Layer.h"
 Layer::Layer(string new_layer_name, vector<Class*>new_class_ptr) {
