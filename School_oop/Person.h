@@ -1,8 +1,5 @@
-/* Assignment: 3
-Author1: Itamar Azran,
-ID: 01234567
-Author2: Yevgeniy Gluhoy,
-ID: 336423629
+/*
+Author: Itamar Azran,
 */
 #pragma once
 #include <string>
