@@ -1,8 +1,5 @@
-/* Assignment: 3
-Author1: Itamar Azran,
-ID: 307955450
-Author2: Yevgeniy Gluhoy,
-ID: 336423629
+/*
+Author: Itamar Azran,
 */
 #pragma once
 #include "Worker.h"
