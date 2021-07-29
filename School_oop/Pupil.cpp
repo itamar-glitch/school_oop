@@ -1,5 +1,5 @@
 /*
-Author: Itamar Azran,
+Author: Itamar Azran
 */
 #include "Pupil.h"
 #include <string>
