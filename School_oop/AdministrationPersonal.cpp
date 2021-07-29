@@ -1,5 +1,5 @@
 /*
-Author: Itamar Azran,
+Author: Itamar Azran
 */
 #include "AdministrationPersonal.h"
 AdministrationPersonal::AdministrationPersonal(string new_office_place, string first_name, string last_name, int seniority_worker, int Seniority_manneger) :Worker(first_name, last_name, seniority_worker, Seniority_manneger){
