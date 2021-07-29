@@ -1,3 +1,6 @@
+/*
+Author: Itamar Azran
+*/
 #pragma once
 #include "Person.h"
 #include "Pupil.h"
