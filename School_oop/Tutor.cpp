@@ -1,8 +1,5 @@
-/* Assignment: 3
-Author1: Itamar Azran,
-ID: 307955450
-Author2: Yevgeniy Gluhoy,
-ID: 336423629
+/*
+Author: Itamar Azran,
 */
 #include "Tutor.h"
 Tutor::Tutor(vector<string> new_subjects, int& num_subject, string first_name, string last_name, int& seniority_worker, int Seniority_manneger, Class* new_kita) :Teacher(new_subjects,num_subject,first_name,last_name,seniority_worker,Seniority_manneger) {
