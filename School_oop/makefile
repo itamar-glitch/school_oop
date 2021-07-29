@@ -1,12 +1,12 @@
-executable_3: assignment3.o Person.o Pupil.o Worker.o Teacher.o AdministrationPersonal.o Tutor.o Manager.o Secretary.o Class.o Layer.o School.o 
+executable_3: main.o Person.o Pupil.o Worker.o Teacher.o AdministrationPersonal.o Tutor.o Manager.o Secretary.o Class.o Layer.o School.o 
 
-	g++ assignment3.o Person.o Pupil.o Worker.o Teacher.o AdministrationPersonal.o Tutor.o Manager.o Secretary.o Class.o Layer.o School.o  -o executable_3
+	g++ main.o Person.o Pupil.o Worker.o Teacher.o AdministrationPersonal.o Tutor.o Manager.o Secretary.o Class.o Layer.o School.o  -o executable_3
 
 
 
-assignment3.o: assignment3.cpp
+main.o: main.cpp
 
-	g++ -c assignment3.cpp
+	g++ -c main.cpp
 
 Person.o: Person.cpp
 
